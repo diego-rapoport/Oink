@@ -1,32 +1,32 @@
-{"usuarios": 
 {
+  "usuarios": {
     "id": 1,
     "nome": "Diego",
     "email": "diego@gmail.com",
     "senha": "diego123",
     "objetivos": [
-        {
-            "nome": "Férias",
-            "dataFinal": "12-08-2023",
-            "total": 10000,
-            "media": 160,
-            "prioridade": 3,
-            "concluido": false,
-            "debitos": [
-                {
-                    "valor": 120,
-                    "dataDeposito": "10-08-2022"
-                },
-                {
-                    "valor": 200,
-                    "dataDeposito": "09-09-2022"
-                },
-                {
-                    "valor": 150,
-                    "dataDeposito": "12-10-2022"
-                }
-            ]
-        }
+      {
+        "nome": "Férias",
+        "dataFinal": "12-08-2023",
+        "total": 10000,
+        "media": 160,
+        "prioridade": 3,
+        "concluido": false,
+        "debitos": [
+          {
+            "valor": 120,
+            "dataDeposito": "10-08-2022"
+          },
+          {
+            "valor": 200,
+            "dataDeposito": "09-09-2022"
+          },
+          {
+            "valor": 150,
+            "dataDeposito": "12-10-2022"
+          }
+        ]
+      }
     ]
-}
+  }
 }
