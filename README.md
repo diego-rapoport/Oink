@@ -18,6 +18,15 @@
 ** E rode dentro da pasta Backend<br>
 ``json-server db.json``
 
+#### Rotas em: `http://localhost:3001/usuarios`
+
+- GET    /usuarios
+- GET    /usuarios/1
+- POST   /usuarios
+- PUT    /usuarios/1
+- PATCH  /usuarios/1
+- DELETE /usuarios/1
+
 #### Nosso objeto
 O retorno do backend será nesse formato:
 ```
